@@ -1,4 +1,4 @@
-# Populate Cosmos DB Data
+# Populate Cosmos DB Data for AI Hub Gateway
 
 This script populates the model-pricing container.
 
